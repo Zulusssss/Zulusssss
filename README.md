@@ -18,6 +18,12 @@
 - Telegram: @Zulusssss
 - Email: rosjit1@gmail.com
 
+### I communicate in:
+- Russian (native)
+- Ukrainian (native)
+- English (A2)
+- German (A2)
+
 
 <!--
 **Zulusssss/Zulusssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
