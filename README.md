@@ -17,6 +17,7 @@
 ### How to reach me:
 - Telegram: @Zulusssss
 - Email: rosjit1@gmail.com
+- Linkedin: [in/rostik123](https://www.linkedin.com/in/rostik123)
 
 ### I communicate in:
 - Russian (native)
