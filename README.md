@@ -4,6 +4,10 @@
 
 ### I'm python developer with an engineering background. I am interested in backend development and data analytics.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zulusssss&theme=great-gatsby&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zulusssss&theme=yellowdark&mode=weekly)](https://git.io/streak-stats)
+
+
 ### IT background:
 - I'm learning Python, Django, DRF framework;
 - I am involved in an open project to create functionality that allows you to work with physical formulas based on SymPy;
